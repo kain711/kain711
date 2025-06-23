@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 <h3 align="center">Student at TecAzuay, Big Data🌟.</h3>
 
 
-- 🔭 I’m currently working on ConectaFeria
+- 🔭 I’m currently working on V.E.R.D.E(Vision Electronica de Reconocimiento de Especies)
 - 🌱 I’m currently learning SQL and Python 
 - 👯 I’m looking to collaborate on Data Analistics
 
